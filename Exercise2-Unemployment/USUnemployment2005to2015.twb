@@ -16,7 +16,7 @@
       <connection class='federated'>
         <named-connections>
           <named-connection caption='P1-Long-Term-Unemployment-Statistics' name='excel-direct.1i5k48n0shncz916o0h530qv2up1'>
-            <connection class='excel-direct' cleaning='no' compat='no' dataRefreshTime='' filename='C:/Users/Danie/OneDrive/Desktop/Tableau Data Science/Exercise2/P1-Long-Term-Unemployment-Statistics.xlsx' interpretationMode='0' password='' server='' validate='no' />
+            <connection class='excel-direct' cleaning='no' compat='no' dataRefreshTime='' filename='C:/Users/Danie/OneDrive/Desktop/Tableau Data Science/Exercise2-Unemployment/P1-Long-Term-Unemployment-Statistics.xlsx' interpretationMode='0' password='' server='' validate='no' />
           </named-connection>
         </named-connections>
         <relation connection='excel-direct.1i5k48n0shncz916o0h530qv2up1' name='Sheet1' table='[Sheet1$]' type='table'>
@@ -109,7 +109,7 @@
       </column>
       <column-instance column='[Age]' derivation='None' name='[none:Age:nk]' pivot='key' type='nominal' />
       <extract count='-1' enabled='true' units='records'>
-        <connection access_mode='readonly' authentication='auth-none' author-locale='en_US' class='hyper' dbname='C:/Users/Danie/OneDrive/Desktop/Tableau Data Science/Exercise2/Sheet1 (P1-Long-Term-Unemployment-Statistics).hyper' default-settings='yes' schema='Extract' sslmode='' tablename='Extract' update-time='04/30/2020 06:10:18 PM' username='tableau_internal_user'>
+        <connection access_mode='readonly' authentication='auth-none' author-locale='en_US' class='hyper' dbname='C:/Users/Danie/OneDrive/Desktop/Tableau Data Science/Exercise2-Unemployment/Sheet1 (P1-Long-Term-Unemployment-Statistics).hyper' default-settings='yes' schema='Extract' sslmode='' tablename='Extract' update-time='04/30/2020 06:10:18 PM' username='tableau_internal_user'>
           <relation name='Extract' table='[Extract].[Extract]' type='table' />
           <refresh increment-key='' incremental-updates='false'>
             <refresh-event add-from-file-path='Sheet1 (P1-Long-Term-Unemployment-Statistics)' increment-value='%null%' refresh-type='create' rows-inserted='1708' timestamp-start='2020-04-30 18:10:18.128' />
@@ -206,7 +206,7 @@
     </datasource>
   </datasources>
   <worksheets>
-    <worksheet name='Unemployment 2005-2015'>
+    <worksheet name='U.S. Unemployment 2005-2015'>
       <layout-options>
         <title>
           <formatted-text>
@@ -407,7 +407,7 @@
     </worksheet>
   </worksheets>
   <windows source-height='30'>
-    <window class='worksheet' maximized='true' name='Unemployment 2005-2015'>
+    <window class='worksheet' maximized='true' name='U.S. Unemployment 2005-2015'>
       <cards>
         <edge name='left'>
           <strip size='160'>
@@ -448,7 +448,7 @@
     </window>
   </windows>
   <thumbnails>
-    <thumbnail height='384' name='Unemployment 2005-2015' width='384'>
+    <thumbnail height='384' name='U.S. Unemployment 2005-2015' width='384'>
       iVBORw0KGgoAAAANSUhEUgAAAYAAAAGACAYAAACkx7W/AAAACXBIWXMAAA7DAAAOwwHHb6hk
       AAAgAElEQVR4nOzdd5xcZ33o/88pU7Z3bVPv1kqy5SIXwMYVDNjYQCiGkJuEkOSGJL8QWgg3
       JIGEX7hAQkleJoFAfMFwIaZj3HHFtlzUu7Ta3nd6OXPK89w/ZjW7o9mVZrtWet6vl18vduac

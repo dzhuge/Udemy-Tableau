@@ -25,3 +25,8 @@ Exercise 4 Learning Objectives:
 	- Inner, Left, Right, and Full joins
 	- Data Blending
 	- Dual Axis Charts
+	
+Exercise 5 Learning Objectives:
+	- Interactive Dashboards
+	- Storytelling
+	

@@ -31,4 +31,8 @@ Exercise 5 Learning Objectives:
 	- Storytelling
 	
 Exercise 6 Learning Objectives:
-	- 
+	- Data Preparation
+		- Splits
+		- Pivots
+		- Adjusting Excel files to fit Tableau/Formatting
+		- Metadata Grid

@@ -30,3 +30,5 @@ Exercise 5 Learning Objectives:
 	- Interactive Dashboards
 	- Storytelling
 	
+Exercise 6 Learning Objectives:
+	- 

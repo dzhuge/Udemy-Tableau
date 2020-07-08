@@ -36,3 +36,15 @@ Exercise 6 Learning Objectives:
 		- Pivots
 		- Adjusting Excel files to fit Tableau/Formatting
 		- Metadata Grid
+	-
+	
+Exercise 7 Learning Objectives:
+	- Creating custom territories via Groups
+	- Creating custom territories via Geographic Roles
+	- Using Highlighters
+	- Performing Cluster Analysis
+	- Using Domain Knowledge to add external datasets into analysis
+	- Creating Cross-Database Joins
+	- USing Regression Models with Clustering
+	- Saving Clusters
+	 
